@@ -1,21 +1,35 @@
-Part 1 
+Part 1 Installing VScode
 
-
-
+I download vscode and write a code, it worked successfully. 
 
 <img width="716" alt="Screen Shot 2022-04-10 at 8 45 29 PM" src="https://user-images.githubusercontent.com/97008935/162661884-20b33b70-695d-4030-bd8b-8405df0aad75.png">
 
 
-Part 2 
+Part 2 Installing VScode
+
+I use ssh cs15lsp22akg@ieng6.ucsd.edu to log in and my terminal is connected to a computer in the CSE basement. akg is my id here, after i reset my password before, and it is correct after i enter it so that it could make sure the account i use is mine.
 
 <img width="624" alt="Screen Shot 2022-04-10 at 8 46 54 PM" src="https://user-images.githubusercontent.com/97008935/162662026-ef694b97-4077-4d8e-8bc8-e69dc741d9d5.png">
 
+Part 3 Trying Some Commands
 
-Part 3 
-
-<img width="1440" alt="Screen Shot 2022-04-10 at 8 51 43 PM" src="https://user-images.githubusercontent.com/97008935/162662401-af53fb16-35f7-45f1-b650-5e83c7bd58eb.png">
-
-Part 4 
 I use command pwd to print current working directory, then i use ls to Print a List of Files and Subdirectories in the current directory, after that i tried cd perl5, cd is changing current working directory and the perl5 is the document im going to. i use mkdir to create a new directory called hello. i use cp command, to cope hello which i just created, however, it is not wotking.
-<img width="1052" alt="Screen Shot 2022-04-10 at 9 02 46 PM" src="https://user-images.githubusercontent.com/97008935/162663253-7a9529f5-691a-4e0f-9c56-3a7358bb40b4.png">
 
+<img width="1052" alt="Screen Shot 2022-04-10 at 9 02 46 PM" src="https://user-images.githubusercontent.com/97008935/162663253-7a9529f5-691a-4e0f-9c56-3a7358bb40b4.png">
+Part 4 Moving Files with scp
+
+I use ls to lsit all my directory and you can see WhereAmI.java is already there
+
+<img width="1052" alt="Screen Shot 2022-04-10 at 9 35 21 PM" src="https://user-images.githubusercontent.com/97008935/162665903-7f925a72-6924-4c99-978f-f25d77ebc201.png">
+
+part 5 Setting an SSH Key
+
+After i use ssh cs15lsp22akg@ieng6.ucsd.edu, it doesnt require my password.
+
+<img width="1052" alt="Screen Shot 2022-04-10 at 9 53 41 PM" src="https://user-images.githubusercontent.com/97008935/162667294-5326bda4-062e-4086-ab9f-53fde7f2c3b5.png">
+
+part 6 
+
+I try to run ssh cs15lsp22zz@ieng6.ucsd.edu "ls" and it print out all the directory and we could also compile or run WhereAmI.java file.
+
+<img width="1052" alt="Screen Shot 2022-04-10 at 10 16 10 PM" src="https://user-images.githubusercontent.com/97008935/162669494-b5b24177-6ab4-40d7-aa21-da02a2a3934f.png">

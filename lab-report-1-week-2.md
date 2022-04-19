@@ -30,7 +30,7 @@ After i use ssh cs15lsp22akg@ieng6.ucsd.edu, it doesnt require my password.
 
 
 
-part 6 
+part 6 Optimizing Remote Running
 
 I try to run ssh cs15lsp22zz@ieng6.ucsd.edu "ls" and it print out all the directory and we could also compile or run WhereAmI.java file.
 

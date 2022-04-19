@@ -18,7 +18,7 @@ I use command pwd to print current working directory, then i use ls to Print a L
 <img width="1052" alt="Screen Shot 2022-04-10 at 9 02 46 PM" src="https://user-images.githubusercontent.com/97008935/162663253-7a9529f5-691a-4e0f-9c56-3a7358bb40b4.png">
 Part 4 Moving Files with scp
 
-I use ls to lsit all my directory and you can see WhereAmI.java is already there
+I use ls to list all my directory and you can see WhereAmI.java is already there
 
 <img width="1052" alt="Screen Shot 2022-04-10 at 9 35 21 PM" src="https://user-images.githubusercontent.com/97008935/162665903-7f925a72-6924-4c99-978f-f25d77ebc201.png">
 

@@ -25,8 +25,8 @@ I use ls to lsit all my directory and you can see WhereAmI.java is already there
 part 5 Setting an SSH Key
 
 After i use ssh cs15lsp22akg@ieng6.ucsd.edu, it doesnt require my password.
+![Task5](<img width="1052" alt="Screen Shot 2022-04-18 at 6 09 02 PM" src="https://user-images.githubusercontent.com/97008935/163900754-615b5bb2-be8a-417a-afc7-a023fabf083b.png">)
 
-<img width="1052" alt="Screen Shot 2022-04-10 at 9 53 41 PM" src="https://user-images.githubusercontent.com/97008935/162667294-5326bda4-062e-4086-ab9f-53fde7f2c3b5.png">
 
 part 6 
 

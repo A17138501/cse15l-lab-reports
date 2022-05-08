@@ -31,8 +31,7 @@
 **part3**
 
 3.1 
-<img width="1440" alt="Screen Shot 2022-05-07 at 9 19 38 PM" src="https://user-images.githubusercontent.com/97008935/167281560-7f2474bd-015e-477f-8bc8-069867a526a1.png">
-<img width="1440" alt="Screen Shot 2022-05-07 at 9 19 49 PM" src="https://user-images.githubusercontent.com/97008935/167281564-325d8ac6-98f5-42d5-b34c-79163ab5734c.png">
+<img width="1440" alt="Screen Shot 2022-05-07 at 9 23 18 PM" src="https://user-images.githubusercontent.com/97008935/167281654-3a9987b7-16c8-4228-8c34-582a30a3bc36.png">
 
 
 3.2 

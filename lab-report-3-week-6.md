@@ -13,17 +13,16 @@
 **Setup Github Access from ieng6**
 
 2.1 
-
-
-
-
+<img width="1440" alt="Screen Shot 2022-05-08 at 7 14 17 PM" src="https://user-images.githubusercontent.com/97008935/167329268-fdff3c06-c713-4f42-b47a-0e7844c87a0c.png">
+<img width="1440" alt="Screen Shot 2022-05-08 at 7 15 14 PM" src="https://user-images.githubusercontent.com/97008935/167329339-cc42ca9b-6ec7-483b-a11b-95da0cc8920e.png">
 
 2.2
 
-
-
+<img width="219" alt="Screen Shot 2022-05-08 at 7 16 19 PM" src="https://user-images.githubusercontent.com/97008935/167329445-e8c6c346-5520-4d90-899f-d37626d26f18.png">
 
 2.3
+
+
 
 2.4
 

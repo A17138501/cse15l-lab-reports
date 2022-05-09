@@ -1,3 +1,8 @@
+LAB REPORT 3
+
+
+
+
 **part1**:
 **Streamlining ssh Configuration**
 
@@ -32,7 +37,7 @@
 2.4
 [link](https://github.com/A17138501/markdown-parser/commit/99838aa98fb3c360e92767415682f856027d74e5)
 
-**part3**
+**part3** Copy whole directories with scp -r
 
 3.1 
 ![image](https://user-images.githubusercontent.com/97008935/167281654-3a9987b7-16c8-4228-8c34-582a30a3bc36.png)

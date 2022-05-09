@@ -33,15 +33,14 @@
 **part3**
 
 3.1 
-<img width="1440" alt="Screen Shot 2022-05-07 at 9 23 18 PM" src="https://user-images.githubusercontent.com/97008935/167281654-3a9987b7-16c8-4228-8c34-582a30a3bc36.png">
+![image](https://user-images.githubusercontent.com/97008935/167281654-3a9987b7-16c8-4228-8c34-582a30a3bc36.png)
 
 
 3.2 
-<img width="1440" alt="Screen Shot 2022-05-07 at 9 33 48 PM" src="https://user-images.githubusercontent.com/97008935/167281896-962b9362-8721-43a1-ad3d-aefd235c5435.png">
+![image](https://user-images.githubusercontent.com/97008935/167281896-962b9362-8721-43a1-ad3d-aefd235c5435.png)
 
 
 
 3.3
-
-<img width="1440" alt="Screen Shot 2022-05-08 at 6 55 51 PM" src="https://user-images.githubusercontent.com/97008935/167327780-e8101841-d4d2-4e86-b9d3-96efd80b4384.png">
+![image](https://user-images.githubusercontent.com/97008935/167327780-e8101841-d4d2-4e86-b9d3-96efd80b4384.png)
 

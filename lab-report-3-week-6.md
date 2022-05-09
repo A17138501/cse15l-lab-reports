@@ -16,19 +16,21 @@
 **Setup Github Access from ieng6**
 
 2.1 
-<img width="1440" alt="Screen Shot 2022-05-08 at 7 14 17 PM" src="https://user-images.githubusercontent.com/97008935/167329268-fdff3c06-c713-4f42-b47a-0e7844c87a0c.png">
-<img width="1440" alt="Screen Shot 2022-05-08 at 7 15 14 PM" src="https://user-images.githubusercontent.com/97008935/167329339-cc42ca9b-6ec7-483b-a11b-95da0cc8920e.png">
+![image](https://user-images.githubusercontent.com/97008935/167329268-fdff3c06-c713-4f42-b47a-0e7844c87a0c.png)
+
+![image](https://user-images.githubusercontent.com/97008935/167329339-cc42ca9b-6ec7-483b-a11b-95da0cc8920e.png)
 
 2.2
 
-<img width="219" alt="Screen Shot 2022-05-08 at 7 16 19 PM" src="https://user-images.githubusercontent.com/97008935/167329445-e8c6c346-5520-4d90-899f-d37626d26f18.png">
+![image](https://user-images.githubusercontent.com/97008935/167329445-e8c6c346-5520-4d90-899f-d37626d26f18.png)
+
 
 2.3
 
 ![image](https://user-images.githubusercontent.com/97008935/167337214-42b64f67-be16-49f5-85fb-d19c417dc6a5.png)
 
 2.4
-
+[link](https://github.com/A17138501/markdown-parser/commit/99838aa98fb3c360e92767415682f856027d74e5)
 
 **part3**
 

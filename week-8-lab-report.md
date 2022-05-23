@@ -49,6 +49,7 @@ Yes, i think it could be fixed in a small code, I make a new field called Backti
 
 For reviewed one:
 
+Yes, i think it could be fixed a small code, the reviewed code is pretty simillar to my code the difference is that they use a one line of if statement to make that if the index of any parenthsis or brackets is equal to -1 which means that the parenthsis or brackets can not be found will break the while loop in the markdownparse class. and in my code i separate them to the blow of each parenthsis or brackets. waht i need to do is to add the same thing what i have done in my implementation part.I make a new field called Backtik and it is an interger showed that the index of "`", and i use a if statement to show that if openbracket - backtik !=1, i will add the substring which is form openparenthesis to closeparenthesis.
 
 # Snippet2
 
@@ -89,7 +90,7 @@ No, i dont think i could fix the bug in a small code, for this problem what i wo
 
 For reviewed one:
 
-
+No, I dont think i could fix tge bug in a small code, what i should do is that i have to seperate the if statement about openparenthesis to closeparenthesis in my review code to specif place which is the place below of each parenthsis or brackets when assigning the value to them. so that their code will return the links. and the next step is the same thing what i have done above in my implement part. i will abstract the strings that from openparenthsis to closeparenthsis and write a helper method out of the markdownParse class that called findlast, it will take an string and make it to an array, then i will use a for loop, it takes an interger i that the value set to be length of the array and then i--, it should be greater than 0. in the for loop there is a if statement that if at the index i the character is equal to ")", the function will return the value of i, and the next step is that go back to markdownparse class and change the value of the integer closeparen to openparenthsis + i which is the the fisrt"(" add the distance i. as you can see from my previous solution, the code is going to be more than 10 lines.
 
 # Snippet3
 
@@ -128,3 +129,6 @@ For my implementation:
 yes, i think i could solve this solution within 10 lines, what im going to do is that i will use contain method to check the substring from openparenthsis to closeparenthsis that if there have a "/n" or not, if it is there, i will make the while loop skip this link and try to find the next link, it could be solved in 10 lines.
 
 For reviewed one:
+
+No, I dont think i could solve this problem in 10 lines, because i have 
+to seperate the if statement about openparenthesis to closeparenthesis in my review code to specif place which is the place below of each parenthsis or brackets when assigning the value to them. so that their code will return the links. and the next step is the same thing what i have done above in my implement part. i will use contain method to check the substring from openparenthsis to closeparenthsis that if there have a "/n" or not, if it is there, i will make the while loop skip this link and try to find the next link, because i have to separate some statments in my review code so i dont think i could finish it in 10 lines. 

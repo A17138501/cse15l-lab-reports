@@ -34,16 +34,18 @@ For your implementation, the corresponding output when running the tests; if it 
 **Part4**
 For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
-![Picture to show reviewed junit]
+![Review1Junit](https://user-images.githubusercontent.com/97008935/169734640-27239b37-d6f1-4536-8415-da605d4654d4.png)
+
 
 **Part5**
 Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
 
 For my implementation:
 
-Yes, i think it could be fixed in a small code, I make a new field called Backtik and it is an interger showed that the index of "`", and i use a if statement to show that if openbracket - backtik !=1, i will add the substring which is form openparenthesis to closeparenthesis. Below is the pic how i fix the bug.
+Yes, i think it could be fixed in a small code, I make a new field called Backtik and it is an interger showed that the index of "`", and i use a if statement to show that if openbracket - backtik !=1, i will add the substring which is form openparenthesis to closeparenthesis. Below is the picture how i fix the bug.
 
-![Fix 1]()
+![Fix1](https://user-images.githubusercontent.com/97008935/169734673-71bb74b7-2672-4cb4-9f4f-2cf2b0515574.png)
+
 
 For reviewed one:
 
@@ -53,7 +55,8 @@ For reviewed one:
 **Part1**
 
 what it should produce by using VScode preview:
-![Picture to Sinppet2]()
+
+![Snippet2](https://user-images.githubusercontent.com/97008935/169734708-f83d70a5-30e3-4cef-b476-d49a8c6b866b.png)
 
 
 **Part2**
@@ -67,12 +70,14 @@ Showing the code in MarkdownParseTest.java for how you turned it into a test
 
 For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
-![Picture to show Junit]()
+![Snippet2Junit](https://user-images.githubusercontent.com/97008935/169734766-3e78b4fc-90da-427c-82bb-8c4bcdb961f3.png)
+
 
 **Part4**
 For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
-![Picture to show reviewed junit]()
+![ReviewJunit2](https://user-images.githubusercontent.com/97008935/169734802-2b999ab2-a669-4b4c-a12f-e4f0e17876af.png)
+
 
 **Part5**
 
@@ -90,8 +95,9 @@ For reviewed one:
 
 **Part1**
 
-what it should produce by using VScode preview:
-![Picture to Sinppet2]()
+what it should produce by using  the CommonMark demo site preview:
+
+![Snippet3](https://user-images.githubusercontent.com/97008935/169734947-d63f96ce-e451-4732-8240-42e5a3b9412d.png)
 
 
 **Part2**
@@ -104,16 +110,18 @@ Showing the code in MarkdownParseTest.java for how you turned it into a test
 
 For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
-![Picture to show Junit]()
+![Snippet3Junit](https://user-images.githubusercontent.com/97008935/169735086-3862c9d8-8bd8-46a8-9356-b70d3fbc70f3.png)
+
 
 **Part4**
 For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
-![Picture to show reviewed junit]()
+![ReviewJunit3](https://user-images.githubusercontent.com/97008935/169735166-4393e968-8c6a-4766-a82d-e371c816c0a7.png)
+
 
 **Part5**
 
-Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
+Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change
 
 For my implementation:
 

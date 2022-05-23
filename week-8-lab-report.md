@@ -14,20 +14,22 @@ repository and a link to the one you reviewed in week 7
 **Part1**
 
 what it should produce by using VScode preview:
-![Picture to Sinppet1]()
+![Picture to Sinppet1](https://user-images.githubusercontent.com/97008935/169733792-df05f847-e1e1-4644-982b-1eaf2cc10c11.png)
+
 
 
 **Part2**
 
 Showing the code in MarkdownParseTest.java for how you turned it into a test
 
-![Picture to show Junit]()
+![Picture to show test](https://user-images.githubusercontent.com/97008935/169734303-eeef9530-dcd3-4a1f-98e1-f7d1a9e35049.png)
+
 
 **Part3**
 
 For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
-![Picture to show Junit]()
+![Picture to show Junit](https://user-images.githubusercontent.com/97008935/169733894-2fb09328-7f00-43cb-9093-ea5fd22c6151.png)
 
 **Part4**
 For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
@@ -58,7 +60,8 @@ what it should produce by using VScode preview:
 
 Showing the code in MarkdownParseTest.java for how you turned it into a test
 
-![Picture to show Junit]()
+![Picture to show test](https://user-images.githubusercontent.com/97008935/169734303-eeef9530-dcd3-4a1f-98e1-f7d1a9e35049.png)
+
 
 **Part3**
 
@@ -95,7 +98,7 @@ what it should produce by using VScode preview:
 
 Showing the code in MarkdownParseTest.java for how you turned it into a test
 
-![Picture to show Junit]()
+![Picture to show test](https://user-images.githubusercontent.com/97008935/169734303-eeef9530-dcd3-4a1f-98e1-f7d1a9e35049.png)
 
 **Part3**
 

@@ -5,4 +5,4 @@
 
 [lab report week 8](week-8-lab-report.md)
 
-[lab-report5.md]()
+[lab-report5](lab-report5.md)
